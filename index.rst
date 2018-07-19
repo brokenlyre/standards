@@ -13,3 +13,5 @@ This is what we live buy
    :caption: Contents:
 
    allabout
+   role1/index
+   role2/index

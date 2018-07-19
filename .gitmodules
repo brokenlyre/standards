@@ -1,0 +1,6 @@
+[submodule "role1"]
+	path = role1
+	url = https://github.com/brokenlyre/role1.git
+[submodule "role2"]
+	path = role2
+	url = https://github.com/brokenlyre/role2.git
